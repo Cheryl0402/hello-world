@@ -1,4 +1,4 @@
 language:java
 rvm:
 - 16.0.2
-- azul-16
+- Azul-Zulu
